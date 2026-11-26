@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  subject: MyString
+  description: MyText
+  status: MyString
+  customer: one
+  assigned_to: one
+  category: one
+  resolved_at: 2026-11-25 16:08:41
+  closed_at: 2026-11-25 16:08:41
+
+two:
+  subject: MyString
+  description: MyText
+  status: MyString
+  customer: two
+  assigned_to: two
+  category: two
+  resolved_at: 2026-11-25 16:08:41
+  closed_at: 2026-11-25 16:08:41
